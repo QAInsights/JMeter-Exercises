@@ -14,6 +14,10 @@ Looking for LoadRunner Exercises? [Here it is](https://github.com/QAInsights/Loa
 
 > Currently these series under active development.
 
+# ⚠ Important Note
+
+Please do not inject any load into the below mentioned demo web application. 
+
 # 🛠 Enviroment Setup
 
 Below exercises were created using the following configurations:
