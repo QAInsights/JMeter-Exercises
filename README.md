@@ -31,7 +31,10 @@ Below exercises were created using the following configurations:
 
 # 🏑 Exercises
 
-<details><summary>## 00 Record the simple business flow</summary>
+<details>
+    <summary>
+    00 Record the simple business flow
+    </summary>
 <br/>
 <div markdown="1">
 
@@ -41,7 +44,25 @@ Below exercises were created using the following configurations:
 - Click on `Return to FISH`
 
 </div>
+</details><br/>
 
+---
+
+<details>
+    <summary>
+    10 Use CSV Data Set Config for the products [Fish, Dogs, etc.]
+    </summary>
+<br/>
+<div markdown="1">
+
+- Launch [Pet Store](https://petstore.octoperf.com/actions/Catalog.action) application
+- Click on `Fish`
+
+Use CSV Data Set Config for the products. 
+
+Hint: https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=<P_PRODUCTS>
+
+</div>
 </details><br/>
 
 # ⏭ What's next?
