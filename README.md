@@ -31,7 +31,18 @@ Below exercises were created using the following configurations:
 
 # 🏑 Exercises
 
-> Currently under active development, please `Star` and `Watch` this repository for the updates.
+<details><summary>## 00 Record the simple business flow</summary>
+<br/>
+<div markdown="1">
+
+- Launch [Pet Store](https://petstore.octoperf.com/actions/Catalog.action) application
+- Click on `Fish`
+- Click on the product ID
+- Click on `Return to FISH`
+
+</div>
+
+</details><br/>
 
 # ⏭ What's next?
 
