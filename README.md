@@ -46,8 +46,6 @@ Below exercises were created using the following configurations:
 </div>
 </details><br/>
 
----
-
 <details>
     <summary>
     10 Use CSV Data Set Config for the products [Fish, Dogs, etc.]
