@@ -38,10 +38,15 @@ Below exercises were created using the following configurations:
 <br/>
 <div markdown="1">
 
+- Start recording
 - Launch [Pet Store](https://petstore.octoperf.com/actions/Catalog.action) application
 - Click on `Fish`
 - Click on the product ID
 - Click on `Return to FISH`
+- Stop recording
+- Add a `View Results Tree` listener
+- Run the test plan
+- Go thru each sampler response data
 
 </div>
 </details><br/>
@@ -56,9 +61,66 @@ Below exercises were created using the following configurations:
 - Launch [Pet Store](https://petstore.octoperf.com/actions/Catalog.action) application
 - Click on `Fish`
 
-Use CSV Data Set Config for the products. 
+Use CSV Data Set Config for the products and then Replay.
 
-Hint: https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=<P_PRODUCTS>
+Hint: `https://petstore.octoperf.com/actions/Catalog.action?viewCategory=&categoryId=<P_PRODUCTS>`
+
+</div>
+</details><br/>
+
+<details>
+    <summary>
+    30 Extract the footer text
+    </summary>
+<br/>
+<div markdown="1">
+
+- Launch [Pet Store](https://petstore.octoperf.com/actions/Catalog.action) application
+- Extract the footer text `www.mybatis.org` 
+
+</div>
+</details><br/>
+
+<details>
+    <summary>
+    40 Extract the Title text
+    </summary>
+<br/>
+<div markdown="1">
+
+- Launch [Pet Store](https://petstore.octoperf.com/actions/Catalog.action) application
+- Extract the title
+
+Hint: Use `<title></title>` tags in `Boundary Extractor`
+
+</div>
+</details><br/>
+
+<details>
+    <summary>
+    50 Extract the types of products
+    </summary>
+<br/>
+<div markdown="1">
+
+- Launch [Pet Store](https://petstore.octoperf.com/actions/Catalog.action) application
+- Extract the types of products and its count
+
+Hint: Use `href="/actions/Catalog.action?viewCategory=&categoryId=(.+?)"`
+
+</div>
+</details><br/>
+
+<details>
+    <summary>
+    60 Validate Cart
+    </summary>
+<br/>
+<div markdown="1">
+
+- Launch [Pet Store](https://petstore.octoperf.com/actions/Catalog.action) application
+- Click on the cart icon
+- Validate the text `Your cart is empty.` and the cart total `$0.00`
 
 </div>
 </details><br/>
