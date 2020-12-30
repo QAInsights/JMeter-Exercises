@@ -129,6 +129,71 @@ Hint: Use `href="/actions/Catalog.action?viewCategory=&categoryId=(.+?)"`
 </div>
 </details><br/>
 
+<details>
+    <summary>
+    70 Find all the hyperlinks
+    </summary>
+<br/>
+<div markdown="1">
+
+- Launch [Pet Store](https://petstore.octoperf.com/actions/Catalog.action) application
+- Find all the hyperlinks
+- Print them in the `Log Viewer`
+
+</div>
+</details><br/>
+
+<details>
+    <summary>
+    80 Update Cart up to $100 worth of items
+    </summary>
+<br/>
+<div markdown="1">
+
+- Launch [Pet Store](https://petstore.octoperf.com/actions/Catalog.action) application
+- Add items to the cart upto $100 worth
+
+</div>
+</details><br/>
+
+<details>
+    <summary>
+    90 Register an Account
+    </summary>
+<br/>
+<div markdown="1">
+
+- Launch [Pet Store](https://petstore.octoperf.com/actions/Catalog.action) application
+- Click on `Sign in`
+- Click on `Register Now`
+- Fill the mandatory details
+- Click on `Save Account Information`
+- Login with the credentials you created
+- Logoff
+
+
+</div>
+</details><br/>
+
+<details>
+    <summary>
+    100 Login, Search, and Logoff
+    </summary>
+<br/>
+<div markdown="1">
+
+- Launch [Pet Store](https://petstore.octoperf.com/actions/Catalog.action) application
+- Click on `Sign in`
+- Enter the credentials you created in previous exercise
+- Perform a search for `ES`
+- Click on `Search`
+- Click on the product
+- Click on `Sign Out`
+
+
+</div>
+</details><br/>
+
 # ⏭ What's next?
 
 * [LoadRunner Exercises](https://github.com/QAInsights/LoadRunner-Exercises)
