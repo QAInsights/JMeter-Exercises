@@ -14,9 +14,10 @@ Looking for LoadRunner Exercises? [Here it is](https://github.com/QAInsights/Loa
 
 > Currently these series under active development.
 
-# ⚠ Important Note
+# ⚠ Important Notes
 
-Please do not inject any load into the below mentioned demo web application. 
+- 🛑 Please do not inject any load into the below mentioned demo web application. 
+- 🆘 If you do not know how to proceed with the exercises, please raise an issue. I will help you out. But before that, please watch all my JMeter tutorials in [YouTube](https://www.youtube.com/playlist?list=PLJ9A48W0kpRIjLkZ32Do9yDZXnnm7_uj_) 📽.
 
 # 🛠 Enviroment Setup
 
