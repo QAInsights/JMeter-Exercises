@@ -1073,7 +1073,7 @@ vars.put(&quot;total&quot;,String.format (&quot;%,.2f&quot;, total))</stringProp
             <stringProp name="cacheKey">true</stringProp>
             <stringProp name="script">def ordernumber = args[0]
 log.info(&apos;Order number is &apos; + ordernumber)
-assert ordernumber.matches(&quot;([0-9]{5})&quot;)
+assert ordernumber.matches(&quot;([0-9]{4})&quot;)
 </stringProp>
           </JSR223Sampler>
           <hashTree/>
