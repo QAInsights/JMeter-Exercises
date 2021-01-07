@@ -27,6 +27,7 @@ Below exercises were created using the following configurations:
 - **Sampler**: HTTP Sampler
 - **OS**: Windows 10 Pro 10.0.19041 Build 19041
 - CPU 2 Cores, 4 Logical Processors and Intel Core i7-7500U CPU @ 2.70GHz
+- Jenkins
 
 |   Component   |   Version |
 |   ---------   |   ------- |
