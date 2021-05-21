@@ -23,14 +23,14 @@ Looking for LoadRunner Exercises? [Here it is](https://github.com/QAInsights/Loa
 
 Below exercises were created using the following configurations:
 
-- [Apache JMeter 5.4](https://jmeter.apache.org/)
+- [Apache JMeter 5.4.1](https://jmeter.apache.org/)
 - **Sampler**: HTTP Sampler
 - **OS**: Windows 10 Pro 10.0.19041 Build 19041
 - CPU 2 Cores, 4 Logical Processors and Intel Core i7-7500U CPU @ 2.70GHz
 
 |   Component   |   Version |
 |   ---------   |   ------- |
-|   Apache JMeter   |   5.4  |
+|   Apache JMeter   |   5.4.1  |
 |   JMeter Plugins  |   1.6  |
 |   OpenJDK         |   15 |
 
